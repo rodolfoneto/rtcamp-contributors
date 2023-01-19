@@ -1,0 +1,18 @@
+{
+    "autoload": {
+      "psr-4": {
+          "RtClass\\": "./src/"
+        }
+    },
+    "name": "rtcalss/contributors",
+    "require-dev": {
+        "yoast/phpunit-polyfills": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Rodolfo Neto",
+            "email": "rodolfoneto@gmail.com"
+        }
+    ],
+    "require": {}
+}
