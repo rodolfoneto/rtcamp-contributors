@@ -6,7 +6,8 @@
     },
     "name": "rtcalss/contributors",
     "require-dev": {
-        "yoast/phpunit-polyfills": "^1.0"
+        "yoast/phpunit-polyfills": "^1.0",
+        "phpunit/phpunit": "9.5"
     },
     "authors": [
         {
